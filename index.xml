@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bouryal</title>
+    <link>https://bouryalblog.github.io/</link>
+    <description>Recent content on Bouryal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Bouryal</copyright>
+    <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bouryalblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Theory: How Organizations Make Efficient Decisions</title>
+      <link>https://bouryalblog.github.io/posts/game-theory/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bouryalblog.github.io/posts/game-theory/</guid>
+      <description>In the realm of decision-making, organizations often face complex scenarios involving multiple stakeholders, competing interests, and uncertain outcomes. One powerful tool that organizations use to navigate these challenges is game theory. Let&amp;rsquo;s explore how game theory helps organizations make efficient decisions.
+Understanding Game Theory Game theory is a mathematical framework for analyzing strategic interactions between rational decision-makers. It examines how the choices of one participant affect the outcomes of others and vice versa.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Trees in Data Structures</title>
+      <link>https://bouryalblog.github.io/posts/data-structures/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bouryalblog.github.io/posts/data-structures/</guid>
+      <description>In the realm of data structures, trees are fundamental and versatile structures that are used to represent hierarchical relationships between data elements. A tree is a hierarchical data structure composed of nodes connected by edges. It consists of a root node, which is the topmost node, and zero or more child nodes, each of which may have its own children. Trees are commonly used to represent hierarchical relationships such as organizational structures, file systems, and family trees.</description>
+    </item>
+    
+    <item>
+      <title>Building Wealth Through Compound Interest</title>
+      <link>https://bouryalblog.github.io/posts/first/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bouryalblog.github.io/posts/first/</guid>
+      <description>When it comes to building wealth, one of the most powerful tools in your arsenal is compound interest. Understanding how compound interest works and harnessing its potential can significantly impact your financial future. Let&amp;rsquo;s delve into the basics of compound interest and how you can leverage it to achieve your financial goals.
+What is Compound Interest? Compound interest is the addition of interest to the principal sum of a loan or deposit, resulting in interest on interest.</description>
+    </item>
+    
+  </channel>
+</rss>

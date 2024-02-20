@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bouryal</title>
-    <link>https://bouryalblog.github.io/tags/</link>
+    <link>https://thenew-programer.github.io/tags/</link>
     <description>Recent content in Tags on Bouryal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Bouryal</copyright><atom:link href="https://bouryalblog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Bouryal</copyright><atom:link href="https://thenew-programer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
